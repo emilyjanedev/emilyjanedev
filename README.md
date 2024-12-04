@@ -8,13 +8,13 @@ I am a Full-Stack Developer that is endlessly curious and eager to learn. I love
 - 🖥️ I grew up building computers with my Dad, which sparked my passion for tech from a young age.
 
 ## Tech Stack 
-Front-End
+### Front-End
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,firebase)](https://skillicons.dev)
 
-Back-End
+### Back-End
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,mysql,gcp,firebase)](https://skillicons.dev)
 
-Tools
+### Tools
 [![My Skills](https://skillicons.dev/icons?i=postman,vite,vscode,git,github)](https://skillicons.dev)
 
 ## What's Next
