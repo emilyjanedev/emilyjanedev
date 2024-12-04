@@ -1,4 +1,4 @@
-# Hi there, I'm Emily Schur (aka emilyjandev) 👋
+# Hi there, I'm Emily Schur 👋
 I am a Full-Stack Developer that is endlessly curious and eager to learn. I love getting into the nitty-gritty details of a project to figure out what is going wrong, or how things can be done better. I love coming across new problems and challenges, because that means I'll come out of it with new skills and a deeper understanding.
 
 ## About Me 💁🏻‍♀️
@@ -13,5 +13,5 @@ I am a Full-Stack Developer that is endlessly curious and eager to learn. I love
 ## What's Next
 - Looking to take my learning to the next level by transitioning into a Full-Stack Developer role at a Vancouver tech company. I thrive in a collaborative team environment where learning and mentorship is a priority!
 
-## Get in Touch
+## Get in Touch 📫
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/emilyjschur/)
