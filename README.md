@@ -1,4 +1,4 @@
-# Hi there, I'm Emily Schur 👋
+# Hi there, I'm Emily 👋
 I am a Full-Stack Developer that is endlessly curious and eager to learn. I love getting into the nitty-gritty details of a project to figure out what is going wrong, or how things can be done better. I love coming across new problems and challenges, because that means I'll come out of it with new skills and a deeper understanding.
 
 ## About Me 💁🏻‍♀️
