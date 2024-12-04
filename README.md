@@ -9,7 +9,7 @@ I am a Full-Stack Developer that is endlessly curious and eager to learn. I love
 
 ## Tech Stack 
 ### Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,firebase)](https://skillicons.dev)
 
 ### Back-End
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,mysql,gcp,firebase)](https://skillicons.dev)
