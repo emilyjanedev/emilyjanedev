@@ -8,14 +8,7 @@ I am a Full-Stack Developer that is endlessly curious and eager to learn. I love
 - 🖥️ I grew up building computers with my Dad, which sparked my passion for tech from a young age.
 
 ## Tech Stack 
-### Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,firebase)](https://skillicons.dev)
-
-### Back-End
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,mysql,gcp,firebase)](https://skillicons.dev)
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=postman,vite,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,firebase,nodejs,npm,express,mysql,gcp,postman,vite,vscode,git,github)](https://skillicons.dev)
 
 ## What's Next
 - Looking to take my learning to the next level by transitioning into a Full-Stack Developer role at a Vancouver tech company. I thrive in a collaborative team environment where learning and mentorship is a priority!
