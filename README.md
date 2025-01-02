@@ -11,7 +11,7 @@ I am a Full-Stack Developer that is endlessly curious and eager to learn. I love
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,firebase,nodejs,npm,express,mysql,gcp,postman,vite,vscode,git,github)](https://skillicons.dev)
 
 ## What's Next
-- Looking to take my learning to the next level by transitioning into a Full-Stack Developer role at a Vancouver tech company. I thrive in a collaborative team environment where learning and mentorship is a priority!
+- After completing my Software Engineering Diploma at BrainStation, I was invited back and offered a position as a Teaching Assistant for the next Software Engineering cohort. Currently, I am supporting and empowering these future developers on their journey of breaking into tech! After this, I hope to move into a full-time Software Developer role at a Vancouver tech company. If you're reading this and think I'd be a good fit at your company, please reach out! I would love to learn more about what you are working on.
 
 ## Get in Touch 📫
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/emilyjschur/)
