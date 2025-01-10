@@ -3,7 +3,7 @@ I am a Full-Stack Developer that is endlessly curious and eager to learn. I love
 
 ## About Me 💁🏻‍♀️
 - 🎓 I recently completed my Diploma in Software Engineering
-- 🔭 I’m currently working on WhiskerWatch, a platform dedicated to reuniting lost pets with their owners
+- 🔭 I’m currently supporting future developers participating in BrainStation's Software Engineering Bootcamp as a Teaching Assistant
 - 🌱 I’m currently learning TypeScript, Next.js and Tailwind CSS
 - 🖥️ I grew up building computers with my Dad, which sparked my passion for tech from a young age
 
