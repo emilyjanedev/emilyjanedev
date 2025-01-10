@@ -7,7 +7,7 @@ I am a Full-Stack Developer that is endlessly curious and eager to learn. I love
 - 🌱 I’m currently learning TypeScript, Next.js and Tailwind CSS
 - 🖥️ I grew up building computers with my Dad, which sparked my passion for tech from a young age
 
-## Tech Stack 
+## Skills 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,firebase,nodejs,npm,express,mysql,gcp,postman,vite,vscode,git,github)](https://skillicons.dev)
 
 ## What's Next
